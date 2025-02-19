@@ -1,0 +1,1 @@
+# android_device_samsung_s5e8535-common
